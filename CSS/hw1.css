@@ -28,6 +28,7 @@ nav a:active{
 }
 .active{
     background: rgba(255,255,255,1);
+}
 h2{
     text-transform: uppercase;
 }
