@@ -26,15 +26,12 @@ nav a{
 nav a:active{
     background: rgba(255,255,255,1);
 }
-/* main{
-    display: flex;
-    flex-flow: row;
-} */
+.active{
+    background: rgba(255,255,255,1);
 h2{
     text-transform: uppercase;
 }
 .left{
-    /* flex:15%; */
     display: inline-block;
     box-sizing: border-box;
     width: 250px;
@@ -49,7 +46,6 @@ img{
     border: solid 2px #000000;
 }
 .right{
-    /* flex: 70%; */
     display: inline-block;
     width: 950px;
     padding-left: 2px;
